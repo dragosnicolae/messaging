@@ -12,4 +12,4 @@ Using [socket.io](https://socket.io/), implement a simple messaging application 
 Implement the server using the [socket.io server](https://socket.io/docs/server-api/).
 Implement some test clients using the [socket.io client](https://socket.io/docs/client-api/).
 
-Make use of the socket.io events to define each operation type. You can design the API anyway you want and can use any other module you think is useful.
+Make use of the [socket.io events](https://socket.io/get-started/chat/#Emitting-events) to define each operation type. You can design the API anyway you want and can use any other module you think is useful.
